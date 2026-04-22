@@ -1,1 +1,3 @@
-# hi-there-testing-1
+# Assignment Template
+
+Provide instructions here for the student.
